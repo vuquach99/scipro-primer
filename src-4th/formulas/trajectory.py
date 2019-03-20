@@ -19,4 +19,3 @@ theta = theta*pi/180
 y = x*tan(theta) - 1/(2*v0**2)*g*x**2/((cos(theta))**2) + y0
 
 print ('y     = %.1f m' % y)
-
